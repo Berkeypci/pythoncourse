@@ -1,7 +1,7 @@
 sayi = 10 # integer
 tc = "10101010108" #string
-isim = "engin"
-soyisim = "demiroğ"
+isim = "berke"
+soyisim = "yapıcı"
 telefonNumarasi = "5354444444"
 floatSayi = 10.0
 
